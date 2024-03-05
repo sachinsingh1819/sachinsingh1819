@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sachinsingh1819
 - 👀 I’m interested in web Devlopment
-- 🌱 I’m currently learning front end dev
+- 🌱 I’m currently learning frontend development
 - 💞️ I’m looking to collaborate on frontend Devlopment...
   
 
